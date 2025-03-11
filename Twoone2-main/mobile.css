@@ -157,3 +157,50 @@
         margin-top: 300px;
     }
 }
+
+@media screen and (max-width: 420px) {
+
+    img {
+        width: 100%;
+    }
+
+#iframe1 {
+    width: 100%;
+    height: 50vh;
+    margin-bottom: 40px;
+}
+#iframe2 {
+    width: 100%;
+    height: 100vh;
+    
+}
+#iframep {
+    width: 245px;
+    height: 249px;
+    margin-top: 1000px;
+  }
+  #iframe4 {
+    
+    width: 245px;
+    height: 275px;
+    margin-top: 1000px;
+  }
+
+  #iframe5 {
+    width: 204px;
+    height: 161px;
+    margin-top: 1000px;
+}
+
+#iframe6 {
+    width: 204px;
+    height: 224px;
+    margin-top: 1000px;
+}
+
+#iframe7 {
+    width: 136px;
+    height: 175px;
+    margin-top: 1000px;
+}
+}
