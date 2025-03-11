@@ -1,0 +1,159 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 1340px) {
+    #iframep {
+    
+        width: 245px;
+        height: 249px;
+        position: absolute;
+        top: 20px;
+      }
+
+      #iframe4 {
+        position: relative;
+        width: 245px;
+        height: 255px;
+        top: -210px;
+      }
+      #iframe5 {
+        width: 204px;
+        height: 121px;
+        position: absolute;
+        top: 220px;
+        left: 900px;
+        
+    }
+
+      #iframe6 {
+        width: 204px;
+        height: 224px;
+        position: absolute;
+        top: 470px;
+        left: 630px;
+    }
+
+    #iframe7 {
+        width: 136px;
+        height: 115px;
+        position: absolute;
+        left: 900px;
+        top: 340px;
+    }
+    
+}
+
+@media screen and (max-width: 1115px) { 
+    #iframep {
+        width: 245px;
+        height: 249px;
+        position: absolute;
+        top: 620px;
+        left: 10px;
+      }
+
+      #iframe4 {
+        position: absolute;
+        width: 245px;
+        height: 275px;
+        top: 620px;
+        left: 250px;
+        
+      }
+
+      #iframe5 {
+        width: 204px;
+        height: 121px;
+        position: absolute;
+        top: 430px;
+        left: 630px;
+    }
+
+      #iframe6 {
+        width: 204px;
+        height: 224px;
+        position: absolute;
+        top: 215px;
+        left: 630px;
+    }
+
+    #iframe7 {
+        width: 136px;
+        height: 115px;
+        position: absolute;
+        left: 630px;
+        top: 530px;
+    }
+}
+
+@media screen and (max-width: 840px) {
+    #iframe6 {
+        width: 204px;
+        height: 224px;
+        position: absolute;
+        top: 850px;
+        left: 10px;
+    }
+
+    #iframe5 {
+        width: 204px;
+        height: 161px;
+        position: absolute;
+        top: 850px;
+        left: 250px;
+    }
+
+    #iframe7 {
+        width: 136px;
+        height: 175px;
+        position: absolute;
+        left: 250px;
+        top: 955px;
+    }
+}
+
+@media screen and (max-width: 618px) {
+
+        img {
+            width: 100%;
+        }
+
+    #iframe1 {
+        width: 100%;
+        height: 45vh;
+        margin-bottom: 40px;
+    }
+    #iframe2 {
+        width: 100%;
+        height: 280px;
+        
+    }
+    #iframep {
+        width: 245px;
+        height: 249px;
+        margin-top: 232px;
+      }
+      #iframe4 {
+        
+        width: 245px;
+        height: 275px;
+        margin-top: 230px;
+      }
+
+      #iframe5 {
+        width: 204px;
+        height: 161px;
+        margin-top: 240px;
+    }
+
+    #iframe6 {
+        width: 204px;
+        height: 224px;
+        margin-top: 230px;
+    }
+
+    #iframe7 {
+        width: 136px;
+        height: 175px;
+        margin-top: 240px;
+    }
+}
